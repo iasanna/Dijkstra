@@ -7,35 +7,9 @@ Also you need to enter the start and end vertices.
 
 Example:
 
-Enter number of vertices:
-5
-Enter graph's adjacency list:
-Enter count of neighbours of the vertex 0:
-2
-Enter 2 neighbours of the vertex 0 as pairs of two numbers to and len:
-1 2
-3 4
-Enter count of neighbours of the vertex 1:
-2
-Enter 2 neighbours of the vertex 1 as pairs of two numbers to and len:
-2	2
-3	1
-Enter count of neighbours of the vertex 2:
-0
-Enter 0 neighbours of the vertex 2 as pairs of two numbers to and len:
-Enter count of neighbours of the vertex 3:
-2
-Enter 2 neighbours of the vertex 3 as pairs of two numbers to and len:
-2 5
-0 2
-Enter count of neighbours of the vertex 4:
-1
-Enter 1 neighbours of the vertex 4 as pairs of two numbers to and len:
-0	4
-Enter starting vertex:
-3
-Enter ending vertex:
-1
-Your path: 3 0 1
+![image](https://user-images.githubusercontent.com/49211921/125616569-79495ebe-d21e-4c97-ba21-cc6fed0746ab.png)
+
 
 After that you will see the picture with visualization your graph and the better way on it (for example above it's 3-0-1).
+![image](https://user-images.githubusercontent.com/49211921/125616309-6ecbe775-45f4-4d28-a933-a7c1f29c68fa.png)
+
