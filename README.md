@@ -2,11 +2,11 @@
 Dijkstra's algorithm with visualization your graph and decision for it.
 
 When you start the program, you are asked to enter all the necessary data about your graph:
-for each vertex the number of adjacent vertices and the distance to them
+for each vertex the number of adjacent vertices and the distance to them.
 Also you need to enter the start and end vertices.
 
---------------------------------------------------------------------------------
 Example:
+
 Enter number of vertices:
 5
 Enter graph's adjacency list:
@@ -37,6 +37,5 @@ Enter starting vertex:
 Enter ending vertex:
 1
 Your path: 3 0 1
-------------------------------------------------------------------------------
 
 After that you will see the picture with visualization your graph and the better way on it (for example above it's 3-0-1).
